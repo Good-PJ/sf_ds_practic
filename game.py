@@ -1,5 +1,5 @@
 import numpy as np
-
+#new test
 
 
 number = np.random.randint6(1, 101)
