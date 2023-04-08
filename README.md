@@ -11,6 +11,7 @@ From the [SkillFactory Data Scince course]
 
 ## Ссылки на рзюме
 
-[Контакты (RUS)](https://tap.link/Good-PJ)
+## Контакты
+[RUS](https://tap.link/Good-PJ)
 
-[My contact details (ENG)](https://tap.link/Good-PJ/2)
+[ENG](https://tap.link/Good-PJ/2)
