@@ -10,3 +10,5 @@ From the [SkillFactory Data Scince course]
 * [Проект 2. ____](____)
 
 ## Ссылки на рзюме
+
+[Контакты (RUS)](https://tap.link/Good-PJ)
