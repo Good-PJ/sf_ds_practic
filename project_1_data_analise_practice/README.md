@@ -4,7 +4,7 @@
 [1. Описание прокта](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Описание)
 
 
-[2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Какой-куйс-решаем)
+[2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Краткая-информация-о-данных)
 
@@ -22,7 +22,7 @@
 
 
 ### Какой кейс решаем?
-- скачать и открыть [данные]()
+- скачать и открыть данные
 - исследовать структуру данных
 - преобразовать данные для анализа
 - исследование зависимостей в данных
