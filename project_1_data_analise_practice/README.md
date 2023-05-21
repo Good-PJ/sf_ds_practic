@@ -6,7 +6,7 @@
 
 [2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Краткая-информаци-о-данных)
 
 [4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Этапы-работы-над-проектом)
 
