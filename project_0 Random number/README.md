@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание прокта](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0: The game: Random Number/README.md#Описание)
+[1. Описание прокта](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0 Random number/README.md#Описание)
 
 [2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0: The game: Random Number/README.md#Какой-куйс-решаем)
 
