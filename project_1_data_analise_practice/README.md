@@ -8,7 +8,7 @@
 
 [3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Результаты-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Этапы-работы-над-проектом)
 
 [5. Результаты](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Результаты)
 
@@ -21,7 +21,7 @@
 :arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/project_1_data_analise_practice/README.md#Оглавление)
 
 
-### Какой кейс решаем?
+### Какой кейс решаем
 - скачать и открыть данные
 - исследовать структуру данных
 - преобразовать данные для анализа
