@@ -1,23 +1,23 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание прокта](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Описание)
+[1. Описание прокта](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Описание)
 
-[2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Какой-куйс-решаем)
+[2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Какой-куйс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Результаты-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Результаты-работы-над-проектом)
 
-[5. Результаты](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Результаты)
+[5. Результаты](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Результаты)
 
-[6. Выводы](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Выводы)
+[6. Выводы](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Выводы)
 
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попытокю.
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -37,7 +37,7 @@
 ### Краткая информаци о данных
 ....
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -48,7 +48,7 @@
 4. Переносим код в Jupiter через функцию import
 5. Переносим проект на GitHub
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Оглавление)
 
 
 
@@ -56,7 +56,7 @@
 
 роект успешно реализован, код реализован как в файлах .py так и в файлах .ipynb. Все файлы загружены на GitHub как project_0 в соответствующей папке
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Оглавление)
 
 
 ### Выводы
@@ -67,4 +67,4 @@
 - Создали и отредактировали свой нулевой проект
 - Начали создавать шаблон резюме.
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_testgame/blob/main/project_0/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_testgame/blob/main/IDE/project_0 Random number/README.md#Оглавление)
