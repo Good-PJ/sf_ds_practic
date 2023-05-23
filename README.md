@@ -1,6 +1,6 @@
 # My Data Science projects
 
-From the [SkillFactory Data Scince course]
+From the [SkillFactory Data Scince course](https://skillfactory.ru/data-scientist-pro)
 
 ## Проекты
 
