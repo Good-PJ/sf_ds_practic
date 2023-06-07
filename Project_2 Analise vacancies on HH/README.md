@@ -1,7 +1,7 @@
 # Проект 1: Анализ резюме из HH
 
 ## Оглавление
-[1. Описание прокта](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2 Analise vacancies on HH/README.md#Описание)
+[1. Описание прокта](https://github.com/Good-PJ/sf_ds_practic/edit/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Описание)
 
 
 [2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2 Analise vacancies on HH/README.md#Какой-кейс-решаем)
