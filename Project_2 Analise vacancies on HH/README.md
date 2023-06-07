@@ -6,19 +6,19 @@
 
 [2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/edit/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Краткая-информаци-о-данных)
+[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Краткая-информаци-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_practic/edit/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/Good-PJ/sf_ds_practic/edit/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Результаты)
+[5. Результаты](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Результаты)
 
-[6. Выводы](https://github.com/Good-PJ/sf_ds_practic/edit/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Выводы)
+[6. Выводы](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Выводы)
 
 
 ### Описание проекта
 - Исследование и предварительный анализ данных перед построением модели, которая которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist.
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
 
 
 ### Какой кейс решаем
@@ -53,7 +53,7 @@
 - данные представляют - база данных SQL
 - таблицы: VACANCIES, AREAS, EMPLOYERS, INDUSTRIES, EMPLOYERS_INDUSTRIES
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -64,7 +64,7 @@
 4. анализ работодателей;
 5. предметный анализ.
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/Project_2%20Analise%20vacancies%20on%20HH/README.mdОглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
 
 
 
@@ -72,7 +72,7 @@
 
 Проект успешно реализован, код реализован в виде ноутбука .ipynb. Все файлы загружены на GitHub как Project_2 Analise vacancies on HH в соответствующей папке
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
 
 
 ### Выводы
@@ -82,4 +82,4 @@
 - написание выводов по полученным данным
 - Добавили в шаблон резюме еще один проект.
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
