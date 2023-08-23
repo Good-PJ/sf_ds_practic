@@ -4,15 +4,15 @@
 [1. Описание прокта](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Описание)
 
 
-[2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/EADME.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Краткая-информаци-о-данных)
+[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Краткая-информаци-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Результаты)
+[5. Результаты](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Результаты)
 
-[6. Выводы](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Выводы)
+[6. Выводы](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Выводы)
 
 
 ### Описание проекта
