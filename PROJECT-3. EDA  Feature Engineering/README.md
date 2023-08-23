@@ -18,7 +18,7 @@
 ### Описание проекта
 - Предсказание рейтинга отеля для компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов нахождения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель играет нечестно, и его стоит проверить.
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
 
 
 ### Какой кейс решаем
@@ -56,7 +56,7 @@
 - Дата сет из 515738 строк и 17 столбцов
 
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -68,7 +68,7 @@
 4. преобразование и отбор признаков
 5. работа с моделью
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
 
 
 
@@ -76,7 +76,7 @@
 
 Проект успешно реализован, код реализован на kaggel, значение MAPE - 0.87. Также код оформлен в виде ноутбука .ipynb и загружен на GitHub как PROJECT-3. EDA Feature Engineering в соответствующей папке
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
 
 
 ### Выводы
@@ -86,4 +86,4 @@
 * Познакомился с процессом обуения модели и ее предсказанием. Разобрался с kaggel и ориентацией по этому ресурсу.
 * Добавили в шаблон резюме еще один проект.
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
