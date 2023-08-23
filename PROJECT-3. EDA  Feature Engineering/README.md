@@ -1,85 +1,89 @@
-# Проект 2 Анализ вакансий на HH
+# Проект 3 EDA Feature Engineering
 
 ## Оглавление
-[1. Описание прокта](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Описание)
+[1. Описание прокта](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Описание)
 
 
-[2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/EADME.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Краткая-информаци-о-данных)
+[3. Краткая информация о данных](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Краткая-информаци-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Результаты)
+[5. Результаты](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Результаты)
 
-[6. Выводы](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Выводы)
+[6. Выводы](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Выводы)
 
 
 ### Описание проекта
-- Исследование и предварительный анализ данных перед построением модели, которая которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist.
+- Предсказание рейтинга отеля для компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов нахождения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель играет нечестно, и его стоит проверить.
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
 
 
 ### Какой кейс решаем
-- работа с SQL-запросами
-- анализ полученных данных
+- Участие в соревновании на kaggel
+- Условия соревнования:
+  1) Данное соревнование является бессрочным и доступно для всех потоков.
+  2) Срок выполнения соревнования устанавливается индивидуально в каждом потоке.
+  3) Тестовая выборка представлена в LeaderBoard целиком.
+  4) Делаем реальный ML продукт, который потом сможет нормально работать на новых данных. 
 
 **Условия проверки:**
-- Правильность решения задач, логичность построения запросов.
-- Читабельность и верное форматирование запросов и кода на Python, наличие комментариев в запросах; аккуратность оформления решения.
-- Логичность и полнота выводов.
-- Дополнительные исследования данных.
+- Качество кода (соблюдение стандартов оформления PEP-8, комментирование кода, README к проекту).
+- Очистка данных.
+- Исследование данных (качество визуализации, наличие идей, гипотез, комментариев).
+- Генерация признаков.
+- Отбор признаков.
+- Преобразование признаков.
+- Качество решения: результат метрики MAPE.
 
 **Требования к оформлению ноутбука-решения**
-- Решение оформляется только в Jupyter Notebook.
-- Решение оформляется в соответствии с ноутбуком-шаблоном.
-- Каждое задание выполняется в отдельной ячейке, выделенной под задание (в шаблоне они помечены как ваш код здесь). Не следует создавать много ячеек для решения задачи — это провоцирует неудобства при проверке.
-- Текст SQL-запросов и код на Python должны быть читаемыми.
-- Выводы по каждому этапу оформляются в формате Markdown в отдельной ячейке.
-- Выводы можно дополнительно проиллюстрировать с помощью графиков. Они оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
+- Оформление проекта на GitHub, GitLab, Kaggle.
 
 
 **Что практикум**
-- работа с SQL запросами
 - практика python
 - базовый анализ структуры данных
 - преобразование данных
 - разведывательный анализ
+- работа с ресурсами kaggle
 
 
 
 ### Краткая информаци о данных
-- данные представляют - база данных SQL
-- таблицы: VACANCIES, AREAS, EMPLOYERS, INDUSTRIES, EMPLOYERS_INDUSTRIES
+- дата сет, в котором содержатся сведения о 515 000 отзывов на отели Европы
+- Дата сет из 515738 строк и 17 столбцов
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
 
-1. знакомство с данными;
-2. предварительный анализ данных;
-3. детальный анализ вакансий;
-4. анализ работодателей;
-5. предметный анализ.
+1. прочтение данных
+2. очистка данных
+3. изучение данных
+3. создание новых признаков
+4. преобразование и отбор признаков
+5. работа с моделью
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
 
 
 
 ### Результаты
 
-Проект успешно реализован, код реализован в виде ноутбука .ipynb. Все файлы загружены на GitHub как Project_2 Analise vacancies on HH в соответствующей папке
+Проект успешно реализован, код реализован на kaggel, значение MAPE - 0.87. Также код оформлен в виде ноутбука .ipynb и загружен на GitHub как PROJECT-3. EDA Feature Engineering в соответствующей папке
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
 
 
 ### Выводы
 
-- реализация реальной задачи при помощи SQL-запросов в python3 с использованием библиотеки psycopg2
-- визуализация графиков для анализа данных при помощи библиотеки plotly express
-- написание выводов по полученным данным
-- Добавили в шаблон резюме еще один проект.
+* получил интересный опыт работы с даными, применив на практике материал курса.
+* Потренировался в написании кода на python, познакомился с новыми билиотеками.
+* Познакомился с процессом обуения модели и ее предсказанием. Разобрался с kaggel и ориентацией по этому ресурсу.
+* Добавили в шаблон резюме еще один проект.
 
-:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/blob/main/Project_2%20Analise%20vacancies%20on%20HH/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Оглавление)
