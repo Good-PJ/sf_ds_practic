@@ -1,7 +1,7 @@
 # Проект 3 EDA Feature Engineering
 
 ## Оглавление
-[1. Описание прокта](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/EADME.md#Описание)
+[1. Описание прокта](https://github.com/Good-PJ/sf_ds_practic/blob/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/README.md#Описание)
 
 
 [2. Какой кейс решаем?](https://github.com/Good-PJ/sf_ds_practic/edit/main/PROJECT-3.%20EDA%20%20Feature%20Engineering/EADME.md#Какой-кейс-решаем)
