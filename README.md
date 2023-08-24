@@ -9,6 +9,7 @@ From the [SkillFactory Data Scince course](https://skillfactory.ru/data-scientis
 * [Проект 1. Анализ резюме из HH](https://github.com/Good-PJ/sf_ds_practic/tree/main/project_1_data_analise_practice)
 * [Проект 2. Анализ вакансий на HH](https://github.com/Good-PJ/sf_ds_practic/tree/main/Project_2%20Analise%20vacancies%20on%20HH)
 
-* [Проект 3. Анализ вакансий на HH](https://github.com/Good-PJ/sf_ds_practic/tree/main/Project_2%20Analise%20vacancies%20on%20HH)
+* [Проект 3. EDA Feature Engineering. Соревнование на Kaggel](https://github.com/Good-PJ/sf_ds_practic/tree/main/PROJECT-3.%20EDA%20%20Feature%20Engineering)
 
 ## Ссылки на рзюме
+https://volgograd.hh.ru/applicant/resumes/view?resume=59ac4c51ff0c11d2530039ed1f506b49346662
