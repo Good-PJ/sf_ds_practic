@@ -9,4 +9,6 @@ From the [SkillFactory Data Scince course](https://skillfactory.ru/data-scientis
 * [Проект 1. Анализ резюме из HH](https://github.com/Good-PJ/sf_ds_practic/tree/main/project_1_data_analise_practice)
 * [Проект 2. Анализ вакансий на HH](https://github.com/Good-PJ/sf_ds_practic/tree/main/Project_2%20Analise%20vacancies%20on%20HH)
 
+* [Проект 3. Анализ вакансий на HH](https://github.com/Good-PJ/sf_ds_practic/tree/main/Project_2%20Analise%20vacancies%20on%20HH)
+
 ## Ссылки на рзюме
